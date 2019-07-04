@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5835c1ca-2247-4b7e-85ad-59948fc357f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/1_intro/33_hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/1_intro/hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/1_numeric/1_source_vs_interpreter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/1_numeric/2_type_reuse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/1_numeric/3_type_casting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/2_string_formatting/2_63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/2_string_formatting/3_68.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/2_string_formatting/s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/3_list/1_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/3_list/2_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/3_list/3_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/3_list/3_exercise_prep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/2_basic/3_list/3_exercise_prep_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/1_control_exercise_146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/1_if/1_117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/1_if/2_t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/1_if/3_122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/1_if/4_126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/1_if/student_info.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/1_ver1_entrance_fee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_ver2_entrance_fee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/1_130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/2_132_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/4_t_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/5_139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/5_139_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/7_141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/8_for_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/3_for/5_144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/3_ver3_entrance_fee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/4_ver4_entrance_fee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/5_ver5_entrance_fee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134_v2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,11 +41,29 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -100,6 +85,7 @@
       <list>
         <option value="$PROJECT_DIR$/01_Jump_to_python/1_intro/33_hello_world.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py" />
+        <option value="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134_v2.py" />
       </list>
     </option>
   </component>
@@ -134,7 +120,14 @@
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="1_intro" type="462c0819:PsiDirectoryNode" />
+              <item name="3_control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Jump_to_python" type="462c0819:PsiDirectoryNode" />
+              <item name="3_control" type="462c0819:PsiDirectoryNode" />
+              <item name="2_while" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.first_pycharm_program">
+  <component name="RunManager" selected="Python.3_134_v2">
     <configuration name="33_hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,6 +166,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/1_intro/33_hello_world.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_134" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_134_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,6 +260,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_134_v2" />
+        <item itemvalue="Python.3_134" />
         <item itemvalue="Python.first_pycharm_program" />
         <item itemvalue="Python.33_hello_world" />
         <item itemvalue="Python.hello_world" />
@@ -249,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562203153177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="command line 수업 코드 이관">
+      <created>1562203784767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562203784767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -260,8 +304,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,7 +320,45 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초 반영" />
-    <option name="LAST_COMMIT_MESSAGE" value="최초 반영" />
+    <MESSAGE value="command line 수업 코드 이관" />
+    <option name="LAST_COMMIT_MESSAGE" value="command line 수업 코드 이관" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="money &lt; coffee_price" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>money &lt; coffee_price</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>money == coffee_price:</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/33_hello_world.py">
@@ -302,7 +384,21 @@
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/1_intro/first_pycharm_program.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/3_control/2_while/3_134_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
