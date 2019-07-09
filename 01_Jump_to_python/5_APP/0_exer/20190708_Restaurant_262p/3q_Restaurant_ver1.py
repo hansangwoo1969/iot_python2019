@@ -1,6 +1,6 @@
 # Restaurant 클래스 생성
 
-class restaurant:
+class Restaurant:
     def __init__(self, name, type):
         self.name = name
         self.type = type
@@ -14,6 +14,6 @@ class restaurant:
 restaurant_name = input("레스토랑 상호를 작명하세요: ")
 cuisine_type = input("요리유형을 입력하세요: ")
 
-a = restaurant(restaurant_name, cuisine_type)
+a = Restaurant(restaurant_name, cuisine_type)
 a.describe_restaurant()
 a.open_restaurant()
