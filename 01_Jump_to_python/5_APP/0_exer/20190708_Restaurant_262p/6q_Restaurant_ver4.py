@@ -5,20 +5,22 @@
 # 프로그램 종료시 소멸자에서 최종 number_served값과 todays_customer의 값을 더해서 저장
 # Restaurant 클래스 생성
 number_served = 0
-with open("고객서빙현황로그.txt", "w", encoding='UTF-8') as f:
-    f.write(str(number_served))
+# with open("고객서빙현황로그.txt", "w", encoding='UTF-8') as f:
+#     f.write(str(number_served))
 
 
 
-#number_served = 0
+number_served = 0
 
 class Restaurant:
 
-    def __init__(self, name, type, number_seved, todays_customer):
+    def __init__(self, name, type ):
         self.name = name
         self.type = type
         self.number_served = number_served
-        self.todays_customer = 0
+        with open('고객서빙현황로그.txt','r') as f:
+            f_num = f.read()
+        self.todays_customer = int(f_num)
 
     def describe_restaurant(self):
         print("\n저희 레스토랑 상호는 '{}', '{}' 전문점입니다.".format(self.name, self.type ))
@@ -39,6 +41,10 @@ class Restaurant:
         print("지금까지 총 {}명 손님께서 오셨습니다.".format(number_served))
 
     def __del__(self):
+        self.todays_customer += number_served
+        with open("고객서빙현황로그.txt", 'w') as f:
+            f.write("당일 서비스한 고객: {}".format(todays_customer))
+
         print("{} 레스토랑 문 닫습니다".format(self.name))
 
 restaurant_name,cuisine_type = input("레스토랑 상호와 요리 종류를 입력하세요(공백으로 구분) : ").split()

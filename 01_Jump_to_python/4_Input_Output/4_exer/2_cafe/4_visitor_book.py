@@ -23,7 +23,7 @@ def search(name):
 def register(name, borndate):
     print("{0}님 환영합니다. 아래 내용을 입력하셨습니다.".format(name))
     print("{0} {1}".format(name, borndate))
-    with open("./visitor.txt",'a') as f:
+    with open("./visitor.txt", 'a') as f:
         f.write("{} {}".format(name, borndate))
 
 search(name)

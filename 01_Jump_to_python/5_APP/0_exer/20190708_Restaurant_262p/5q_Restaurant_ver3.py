@@ -1,6 +1,4 @@
 # ver1에서 기본값이 0인 number_served속성 추가, 이 클래스에서 restaurant객체를 만드시오
-#
-
 # Restaurant 클래스 생성
 
 number_served = 0

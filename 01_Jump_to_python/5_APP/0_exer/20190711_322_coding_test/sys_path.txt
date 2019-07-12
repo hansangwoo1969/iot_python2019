@@ -1,0 +1,8 @@
+C:\iot_bigdata\python_workspace\01_Jump_to_python\5_APP\0_exer\20190711_322_coding_test
+C:\iot_bigdata\python_workspace\01_Jump_to_python\5_APP\2_Module
+C:\iot_bigdata\python_workspace
+C:\Users\USER\AppData\Local\Programs\Python\Python37\python37.zip
+C:\Users\USER\AppData\Local\Programs\Python\Python37\DLLs
+C:\Users\USER\AppData\Local\Programs\Python\Python37\lib
+C:\Users\USER\AppData\Local\Programs\Python\Python37
+C:\Users\USER\AppData\Local\Programs\Python\Python37\lib\site-packages
