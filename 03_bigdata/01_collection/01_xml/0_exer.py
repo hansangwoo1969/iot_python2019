@@ -10,15 +10,19 @@ base = """
 메뉴입력: """
 
 tree = parse('students_info.xml')
+# print(tree)
+
 note = tree.getroot()
 # print(note.tag, note.attrib)   # student_list {}
 
 for child in note:
+    print(child.get("name"))
+    print(child.get("sex"))
     # print(child.attrib)
-    print(child.tag, child.attrib)
-#     for lng in note.iter('language'):
-#         if lng:
-#             print(lng.tag, lng.attrib)
+    # print(child.tag, child.attrib)
+    for lng in note.iter('language'):
+        if lng:
+            print(lng.tag, lng.attrib)
 #     for prd in note.iter('period'):
 #         if prd:
 #             print(prd.tag, prd.attrib )
