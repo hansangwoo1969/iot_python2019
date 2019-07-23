@@ -1,6 +1,6 @@
 from xml.etree.ElementTree import parse
 
-tree = parse('note.xml')
+tree = parse('sample.xml')
 note = tree.getroot()
 
 print(note.get("date"))   # 현재노드의 속성이름을 get의 인자로 넣어 주면 속성의 값을 반환한다.

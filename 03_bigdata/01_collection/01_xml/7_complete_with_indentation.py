@@ -38,4 +38,4 @@ indent(note)
 
 dump(note)
 
-ElementTree(note).write("note.xml")
+ElementTree(note).write("sample.xml")
