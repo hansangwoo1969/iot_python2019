@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5835c1ca-2247-4b7e-85ad-59948fc357f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/0_exer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/0_problem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_problem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/Xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/dus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/sample.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_News_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/02_NEWS_Analysis (hk).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/02_NEWS_Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/2_news_analysis(sw).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/아베_naver_news.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/아베_naver_news_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1_ITT_Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/ITT_Student.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/students_info2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/wonsang2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/0_exer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/7_complete_with_indentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/7_complete_with_indentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/8_XML_Parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/8_XML_Parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/exer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/note.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/students_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/0_students_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,94 +27,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/2_subelement.py">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1_ITT_Student.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/Xpath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/4_attribute.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1027">
-              <caret line="223" column="21" lean-forward="true" selection-start-line="223" selection-start-column="21" selection-end-line="223" selection-end-column="21" />
+            <state relative-caret-position="25">
+              <caret line="220" column="9" lean-forward="true" selection-start-line="220" selection-start-column="9" selection-end-line="220" selection-end-column="9" />
               <folding>
-                <element signature="e#0#48#0" expanded="true" />
-                <element signature="e#2424#2442#0" />
+                <element signature="e#727#745#0" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/student_info_3.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/dus.py">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="387">
+              <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
               <folding>
-                <element signature="e#0#48#0" expanded="true" />
+                <element signature="e#34#62#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/6_change_value_to_attribute.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/7_complete_with_indentation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_students_info2.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -134,15 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/16q_morse_code_breakig_munsoo.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/16q_morse_code_breaking.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/aaa.txt" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/abc.txt" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/eee.txt" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/8q_ hind_foremost.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/9q_ average.py" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/result.txt" />
-        <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/10q_four arithmetical_operations.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/11q_module_using_method.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/13q_dashline.py" />
         <option value="$PROJECT_DIR$/01_Jump_to_python/5_APP/0_exer/20190711_322_coding_test/14q_string_compressure.py" />
@@ -183,16 +105,25 @@
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/sample.xml" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/Xpath.py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/dus.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/test.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/01_News_search.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/02_NEWS_Analysis.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/2_news_analysis.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/01_NEWS_search (1).py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/02_NEWS_Analysis (hk).py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1_ITT_Student.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="948" />
-    <option name="y" value="59" />
-    <option name="width" value="1217" />
-    <option name="height" value="825" />
+    <option name="x" value="1036" />
+    <option name="y" value="19" />
+    <option name="width" value="974" />
+    <option name="height" value="587" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,14 +162,31 @@
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="EXERCISE" type="462c0819:PsiDirectoryNode" />
+              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
+              <item name="02_openapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
+              <item name="02_openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
+              <item name="02_openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="02_json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="EXERCISE" type="462c0819:PsiDirectoryNode" />
-              <item name="1_Student" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,19 +202,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\python_workspace\03_bigdata\EXERCISE\1_Student" />
-      <recent name="C:\python_workspace\03_bigdata\EXERCISE" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\01_xml" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\python_workspace\03_bigdata\EXERCISE\1_Student" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\01_xml" />
       <recent name="C:\python_workspace\01_Jump_to_python\5_APP\6_exterior_function" />
       <recent name="C:\python_workspace\02_Raspberry_pi" />
       <recent name="C:\python_workspace\02_Raspberry_pi\1_led" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\01_xml" />
+      <recent name="C:\python_workspace\03_bigdata\EXERCISE\1_Student" />
+      <recent name="C:\python_workspace\03_bigdata\EXERCISE" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\01_xml" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,8 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1_exer">
-    <configuration name="1_exer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="02_NEWS_Analysis (hk)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/02_NEWS_Analysis (hk).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_subelement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_ITT_Student" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,11 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/2_subelement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1_ITT_Student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_insert_remove" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_news_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py" />
+      <option name="SCRIPT_NAME" value="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Naver\2_news_analysis(sw).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Xpath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_news_analysis(sw)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,11 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/Xpath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/2_news_analysis(sw).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/dus.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,19 +336,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Xpath" />
-      <item itemvalue="Python.3_insert_remove" />
-      <item itemvalue="Python.2_subelement" />
-      <item itemvalue="Python.dus" />
-      <item itemvalue="Python.1_exer" />
+      <item itemvalue="Python.2_news_analysis" />
+      <item itemvalue="Python.02_NEWS_Analysis (hk)" />
+      <item itemvalue="Python.2_news_analysis(sw)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.1_ITT_Student" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1_exer" />
-        <item itemvalue="Python.dus" />
-        <item itemvalue="Python.2_subelement" />
-        <item itemvalue="Python.3_insert_remove" />
-        <item itemvalue="Python.Xpath" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.1_ITT_Student" />
+        <item itemvalue="Python.2_news_analysis(sw)" />
+        <item itemvalue="Python.2_news_analysis" />
+        <item itemvalue="Python.02_NEWS_Analysis (hk)" />
       </list>
     </recent_temporary>
   </component>
@@ -478,20 +426,26 @@
       <option name="project" value="LOCAL" />
       <updated>1563784313022</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="7월 23일">
+      <created>1563870725371</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563870725371</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1016" y="-8" width="1296" height="1040" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21939586" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2591415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32855567" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4123484" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29768467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42557883" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -503,6 +457,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21780604" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32855567" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4123484" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초 반영" />
@@ -512,7 +485,8 @@
     <MESSAGE value="7월 12일" />
     <MESSAGE value="7월 19일" />
     <MESSAGE value="7월 22일" />
-    <option name="LAST_COMMIT_MESSAGE" value="7월 22일" />
+    <MESSAGE value="7월 23일" />
+    <option name="LAST_COMMIT_MESSAGE" value="7월 23일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,133 +524,53 @@
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>sys.argv</expression-string>
+        <expression-string>g_json_big_data[0]['total_course_info']['learning_course_info'][0]['close_date']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>money &lt; coffee_price</expression-string>
+        <expression-string>g_json_big_data[0]['total_course_info']['learning_course_info'][0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>money == coffee_price:</expression-string>
+        <expression-string>g_json_big_data[0]['total_course_info']['num_of_course_learned']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>g_json_big_data_json_big_data[0]['total_course_info']['num_of_course_learned']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a_json_big_data[0]['total_course_info']['num_of_course_learned']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a_json_big_dat[0]['total_course_info']['num_of_course_learned']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>g_json_big_data[0]['total_course_info']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>g_json_big_data[0]['total_course_info']['learning_course_info'][1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>g_json_big_data[0]['total_course_info']['learning_course_info']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/2_251_button.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/2_247button_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/5_ultrasonic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#47#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/4_t_temp_humid_sensor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/6_LCD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/7_servo_motor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="e#38#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/3_265_fan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/1_led/1_238.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/6_Solved_problem/288_1_sub_dir_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/6_Solved_problem/sub_dir_filename.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149182">
-          <caret line="6781" column="63" selection-start-line="6781" selection-start-column="63" selection-end-line="6781" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/6_Solved_problem/289_1_sub_dir_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/6_Solved_problem/286_1_sub_dir_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/6_Solved_problem/287_1_sub_dir_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01_Jump_to_python/7_exer/20190712_advanced_colleague/Bulls_and_Cows_game_byungchan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -799,13 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/exer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/exer.txt" />
     <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/8_XML_Parsing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -817,22 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/0_exer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/sample.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -871,6 +743,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/7_complete_with_indentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/student_info_3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/sample.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/Xpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/4_attribute.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -878,54 +783,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/Xpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_students_info2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="-1043">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/7_complete_with_indentation.py">
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/students_info2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="425">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/student_info_3.xml">
+    <entry file="file://$PROJECT_DIR$/03_bigdata/초단기예보조회.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/wonsang2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1432">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/02_NEWS_Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_News_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+          <folding>
+            <element signature="e#89#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding>
+            <element signature="e#85#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/아베_naver_news_1.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/02_NEWS_Analysis (hk).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/2_news_analysis(sw).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/아베_naver_news.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/ITT_Student.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/0_exer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1650">
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1027">
-          <caret line="223" column="21" lean-forward="true" selection-start-line="223" selection-start-column="21" selection-end-line="223" selection-end-column="21" />
+        <state relative-caret-position="-1100">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <element signature="e#2424#2442#0" />
+            <element signature="e#589#2444#0" />
+            <element signature="e#725#2300#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/dus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="325">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1_ITT_Student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="220" column="9" lean-forward="true" selection-start-line="220" selection-start-column="9" selection-end-line="220" selection-end-column="9" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#727#745#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+          <folding>
+            <element signature="e#34#62#0" />
           </folding>
         </state>
       </provider>

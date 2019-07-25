@@ -75,50 +75,6 @@ def new_entry():
     ElementTree(students_list).write('student_info_3.xml')
     dump(students_list)
 
-
-# def new_entry():
-#     tree = parse("1_students_info2.xml")
-#     students_list = tree.getroot()
-#     # student = Element('student')
-#     # student.attrib['id'] = "ITT"+"NUM"
-#     NUM = '009'
-#
-#     while True:
-#         new_name = input("이름을 입력하세요(종료는 'Enter'입력): " )
-#         new_sex = input("성별을 입력하세요 ")
-#         new_age = input("나이을 입력하세요 ")
-#         new_major = input("전공을 입력하세요 ")
-#         print("사용 가능한 컴퓨터 언어를 입력하세요  " )
-#         new_language = input("> 언어 이름(종료는 'Enter'입력: ")
-#         study_period = input("> 학습 기간(년/개월 단위): ")
-#         new_level = input("> 수준(상/중/하): ")
-#
-#
-#         student = Element('student')
-#         student.attrib['ID'] = "ITT"+"NUM"
-#         student.attrib['name'] = new_name
-#         student.attrib['sex'] = new_sex
-#         student.attrib['name'] = new_name
-#         major = Element('major')
-#         major.text = new_major
-#         age = Element('age')
-#         age.text = new_age
-#         if new_language:
-#             language = Element('practicable_computer_languages')
-#             language.attrib['name'] = new_language
-#             language.attrib['level'] = new_level
-#             period = Element('period')
-#             period.text = study_period
-
-
-
-
-
-
-
-
-
-
 def summarize():
     tree = parse("0_students_info.xml")
     students_list = tree.getroot()
