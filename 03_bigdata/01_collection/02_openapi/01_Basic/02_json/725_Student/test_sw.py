@@ -53,8 +53,14 @@ with open('ITT_Student.json', encoding='UTF8') as json_file:
 
 # print(g_json_big_data[0]['total_course_info']['num_of_course_learned'])
 # print(g_json_big_data[])
-# n = str(len(g_json_big_data))
-add_ID = "ITT"+str("%03s" % (len(g_json_big_data)+1))
+# n = len(g_json_big_data)
+# add_ID = "ITT"+str("%03d" % (n + 1))
+
+new_ID_Num = int(g_json_big_data[len(g_json_big_data)-1]['student_ID'][3:])
+# print(new_ID_Num)
+add_ID = "ITT"+"0"*(3-len(str(new_ID_Num)))+ str(new_ID_Num+1)
+#
+# print(add_ID)
 add_name = input("이름: ")
 add_age =  input("나이:  ")
 add_address = input("주소: ")
