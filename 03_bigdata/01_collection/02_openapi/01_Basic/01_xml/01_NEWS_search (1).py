@@ -10,9 +10,9 @@ app_id="EHK_oQA_3p1nOWkjJhuJ"
 app_pw="h3lJUgpHxx"
 
 def get_request_url(url):
-    req=urllib.request.Request(url)
-    req.add_header("X-Naver-Client-Id",app_id)
-    req.add_header("X-Naver-Client-Secret",app_pw)
+    req = urllib.request.Request(url)
+    req.add_header("X-Naver-Client-Id", app_id)
+    req.add_header("X-Naver-Client-Secret", app_pw)
 
     try:
         response = urllib.request.urlopen(req)
@@ -70,10 +70,10 @@ def main():
             getPostData(post, jsonResult)
 
     with open('%s_naver_%s.json'%(search_text,sNode),'w',encoding='utf8') as outfile:
-            retJson = json.dumps(jsonResult,indent=4,sort_keys=True,ensure_ascii=False)
+            retJson = json.dumps(jsonResult, indent=4, sort_keys=True, ensure_ascii=False)
             outfile.write(retJson)
 
-    print("%s_naver_%s.json SAVED" %(search_text,sNode))
+    print("%s_naver_%s.json SAVED" % (search_text, sNode))
 
 if __name__ == '__main__':
     main()

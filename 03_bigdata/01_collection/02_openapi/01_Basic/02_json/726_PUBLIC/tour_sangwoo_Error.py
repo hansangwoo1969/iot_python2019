@@ -2,7 +2,7 @@ import urllib.request
 import datetime
 import json
 import math
-# 서비스명: 관광자원통계서비스
+# 서비스명: 관광자원통계서비스  다운받기
 access_key = \
     "XCeRmN%2B%2BubaLKjj%2BA8W%2Bx1QghqjBqMqJRZYXcFRhJiZ%2BZJUOH%2FPvWvsc8mcBE0M9YUC7T0iJ9LM%2FjWg2cD2o9Q%3D%3D"
 def get_request_url(url):
