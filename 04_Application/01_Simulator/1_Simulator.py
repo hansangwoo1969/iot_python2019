@@ -1,3 +1,7 @@
+import  urllib.request
+import time
+import json
+
 g_Radiator = False
 g_Gas_Valve = False
 g_Balcony_Window = False
@@ -29,7 +33,7 @@ def print_device_menu():
     print("3. 발코니 (베란다) 창")
     print("4. 출입문")
 
-def control_device():
+def control_device():     # 글로벌 변수의 값을 변경할 경우에는 변수선언 필요, 단순참조시는 불요필
     global g_Radiator, g_Gas_Valve, g_Balcony_Window, g_Door
 
     check_device_status()
@@ -42,8 +46,38 @@ def control_device():
     if menu_num == 4: g_Door = not g_Door
 
     check_device_status()
-def get_realtime_weather_info():
-    print("자! 메뉴얼 보고 작성해 보세요! ")
+def get_realtime_weather_info():              # ==============================작성할 것
+    print("자! 메뉴얼 보고 작성해 보세요! == 미세먼지 값 보고, 메인메뉴로 가기 == ")
+
+
+    access_key = "XCeRmN%2B%2BubaLKjj%2BA8W%2Bx1QghqjBqMqJRZYXcFRhJiZ%2BZJUOH%2FPvWvsc8mcBE0M9YUC7T0iJ9LM%2FjWg2cD2o9Q%3D%3D"
+    end_point = "http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getCtprvnMesureSidoLIst"
+    parameters = "?_returnType=json&ServiceKey=" + access_key
+    parameters += "&sidoName=%s" % (urllib.parse.quote('대구'))
+    parameters += "&searchCondition=" + 'HOUR'
+
+    url = end_point  + parameters
+
+    req = urllib.request.Request(url)
+    response = urllib.request.urlopen(req)
+    # response.read()
+    retData = response.read().decode('utf8')
+    retData = json.loads(retData)
+
+    datas = retData['list']
+    for data in datas:
+        print(data['dataTime'],data['sidoName'], data['cityName'],'\t' "미세먼지 농도: ", data['pm10Value'])
+
+    time.sleep(3000)
+    print_main_menu()
+
+
+
+
+
+
+
+
 
 def smart_mode():
     global  g_AI_Mode

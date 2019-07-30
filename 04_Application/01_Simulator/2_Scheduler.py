@@ -25,9 +25,10 @@ def terminate_ai_mode():
         raise SyntaxError("PyThreadState_SetAsyncExc  failed")
 
 
-def update_scheduler():
+def update_scheduler():       # 인공지능 쓰레드 작동되는 코드,,,
     while True:
         time.sleep(schedule_cycle)
+
         print(f"스케쥴러 작동..  {schedule_cycle}초 주기")
 
 while True:

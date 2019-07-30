@@ -1,0 +1,42 @@
+[
+    {
+        "cityName": "남구",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "11"
+    },
+    {
+        "cityName": "달서구",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "21"
+    },
+    {
+        "cityName": "달성군",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "13"
+    },
+    {
+        "cityName": "동구",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "15"
+    },
+    {
+        "cityName": "북구",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "30"
+    },
+    {
+        "cityName": "서구",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "21"
+    },
+    {
+        "cityName": "수성구",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "15"
+    },
+    {
+        "cityName": "중구",
+        "dataTime": "2019-07-30 15:00",
+        "pm10Value": "16"
+    }
+]
