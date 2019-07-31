@@ -2,25 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5835c1ca-2247-4b7e-85ad-59948fc357f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907300833.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/result_all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/0_air_quality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/3_simul_scheduler_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/air_quality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도_%s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도_20190730" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/대기질_예보통보_조회.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/시군구별_실시간_평균정보_조회.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/00_re_exer/1_solutin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/01_resident_registration_number_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/02_resident_registration_number_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/03_294_p_m.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/04_294_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/05_294_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/06_294_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/07_294_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/08_295_asterisk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/09_296_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/10_296_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/11_297.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/12_299.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/13_300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/14_300_2findall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/15_301_finditer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/16_302_find_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/17_303.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/18_304_IGNORECASE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/19_305_multiline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/20_307_back_slash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/21_309_meta-char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/22_310_meta-char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/ex_rainy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/ex_sunny.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_byungchan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_sungmin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_wonsang.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291654.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291657.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291658.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291659.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/1_Simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator/1_Simulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/2_Scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator/2_Scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/0_air_quality.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/0_air_quality.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/1_Simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/1_Simulator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/2_Scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/3_simul_scheduler_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/air_quality.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/self.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도_%s" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도_%s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도_20190730" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도_20190730" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/대기질_예보통보_조회.json" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/대기질_예보통보_조회.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator/시군구별_실시간_평균정보_조회.json" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/시군구별_실시간_평균정보_조회.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,79 +52,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/0_air_quality.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-              <folding>
-                <element signature="e#1288#1314#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/1_Simulator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/2_Scheduler.py">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/16_302_find_method.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/self.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="e#47#69#0" expanded="true" />
-                <element signature="e#849#865#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도_20190730">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/3_simul_scheduler_template.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -120,42 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/0_problem.txt" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_problem.txt" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/note.xml" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/note.xml" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/7_complete_with_indentation.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/sample.xml" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/Xpath.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/3_insert_remove.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/dus.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/1_exer.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/test.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/01_News_search.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/02_NEWS_Analysis.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/2_news_analysis.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/01_NEWS_search (1).py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Naver/02_NEWS_Analysis (hk).py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1_ITT_Student.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/2_tour_resource.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/1_ITT_Student(hk).py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/sample.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/sample_json.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/test.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/test_726.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/PUBLIC/tour_service.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/PUBLIC_0726/tour_service.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tour_service.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tour2_sw.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tour_moonsoo.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tourist_by_nation.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tour2_sunmin.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tour_sangwoo_Error.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tourist_by_nation(hk).py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/wonsang/practice.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291205.json" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/weather_hk.py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/1_weather_hk.py" />
@@ -171,6 +91,42 @@
         <option value="$PROJECT_DIR$/04_Application/01_Simulator/simul_scheduler_template.py" />
         <option value="$PROJECT_DIR$/04_Application/01_Simulator/2_Scheduler.py" />
         <option value="$PROJECT_DIR$/04_Application/01_Simulator/1_Simulator.py" />
+        <option value="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" />
+        <option value="$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling_0731/01_Beautiful_Soap.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/01_resident_registration_number_python.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/02_resident_registration_number_re.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/03_294.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/05_294_2.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/06_294_3.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/04_294_1.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/11_297.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/10_296_2.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/09_296.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/08_295.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/07_294_4.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/12_299_1.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/13_300.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/13_300_2findall.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/13_301_finditer.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/16_302_find_method.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/17_303.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/18_304.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/19_305.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/19_305_multiline.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/20_307_back_slash.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/21_309_meta-char.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic/22_310_meta-char.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/00_re_exer/1_solutin.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/01_resident_registration_number_python.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/05_294_2.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/06_294_3.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/07_294_4.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/09_296_plus.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/10_296_2.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/11_297.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/15_301_finditer.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/16_302_find_method.py" />
       </list>
     </option>
   </component>
@@ -188,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,53 +167,52 @@
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_openapi" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Web-crawling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
               <item name="01_collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_openapi" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Web-crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Regular_Expression" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="04_Application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="04_Application" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Web-crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Regular_Expression" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Basic_0731" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_Application/01_Simulator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\02_Regular_Expression\01_Basic" />
+      <recent name="C:\python_workspace\04_Application\01_Simulator" />
+      <recent name="C:\python_workspace\03_bigdata\EXERCISE\1_Student" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\01_xml" />
+      <recent name="C:\python_workspace\01_Jump_to_python\5_APP\6_exterior_function" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\0729_weather" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\726_PUBLIC\wonsang" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\Student_0725" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\PUBLIC" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\python_workspace\04_Application\01_Simulator" />
-      <recent name="C:\python_workspace\03_bigdata\EXERCISE\1_Student" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\01_xml" />
-      <recent name="C:\python_workspace\01_Jump_to_python\5_APP\6_exterior_function" />
-      <recent name="C:\python_workspace\02_Raspberry_pi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,8 +227,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1_Simulator">
-    <configuration name="0_air_quality" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.16_302_find_method">
+    <configuration name="12_299" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +236,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/01_Simulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator/0_air_quality.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/12_299.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1_Simulator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13_300" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +257,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/01_Simulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator/1_Simulator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/13_300.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="self" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14_300_2findall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,11 +278,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/01_Simulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator/self.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/14_300_2findall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simul_scheduler_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15_301_finditer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/01_Simulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\python_workspace\04_Application\01_Simulator\3_simul_scheduler_template.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/15_301_finditer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16_302_find_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,11 +320,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/01_Simulator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/16_302_find_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -380,19 +334,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.self" />
-      <item itemvalue="Python.0_air_quality" />
-      <item itemvalue="Python.simul_scheduler_template" />
-      <item itemvalue="Python.1_Simulator" />
+      <item itemvalue="Python.12_299" />
+      <item itemvalue="Python.13_300" />
+      <item itemvalue="Python.14_300_2findall" />
+      <item itemvalue="Python.15_301_finditer" />
+      <item itemvalue="Python.16_302_find_method" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1_Simulator" />
-        <item itemvalue="Python.self" />
-        <item itemvalue="Python.simul_scheduler_template" />
-        <item itemvalue="Python.0_air_quality" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.16_302_find_method" />
+        <item itemvalue="Python.15_301_finditer" />
+        <item itemvalue="Python.14_300_2findall" />
+        <item itemvalue="Python.13_300" />
+        <item itemvalue="Python.12_299" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564389112213</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="7월 30일">
+      <created>1564475400642</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1564475400642</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -509,15 +470,15 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32855567" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4244763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4244763" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.31753033" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32855567" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32855567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -554,7 +515,8 @@
     <MESSAGE value="7월 25일" />
     <MESSAGE value="7월 26일" />
     <MESSAGE value="7월 29일" />
-    <option name="LAST_COMMIT_MESSAGE" value="7월 29일" />
+    <MESSAGE value="7월 30일" />
+    <option name="LAST_COMMIT_MESSAGE" value="7월 30일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -596,11 +558,45 @@
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="jsonData" language="Python" />
+        <watch expression="data.split(&quot;\n&quot;)" language="Python" />
+        <watch expression="line.split(&quot; &quot;)" language="Python" />
+        <watch expression="len(word) " language="Python" />
+        <watch expression="word[:6]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>v(&quot;\n&quot;.join(result))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word[:6]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(word)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>line.split(&quot; &quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.split(&quot;\n&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.split()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>jsonData</expression-string>
         <language-id>Python</language-id>
@@ -621,89 +617,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>g_json_big_data_json_big_data[0]['total_course_info']['num_of_course_learned']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>a_json_big_data[0]['total_course_info']['num_of_course_learned']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>a_json_big_dat[0]['total_course_info']['num_of_course_learned']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g_json_big_data[0]['total_course_info']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g_json_big_data[0]['total_course_info']['learning_course_info'][1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291205.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291209.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291211.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291221.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291230.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291231.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291247.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291252.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291326.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291337.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/result_all.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tourist_by_nation(hk).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291556.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291626.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291621.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291557.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291631.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291637.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291639.json" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="193" selection-start-line="193" selection-end-line="193" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291659.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291652.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/exer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291658.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291654.json" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907291657.json" />
     <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201907290930.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -750,7 +666,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/대기질_예보통보_조회.json">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대기질_예보통보_조회.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="43" selection-start-column="43" selection-end-column="43" />
@@ -767,17 +683,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#1#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/air_quality.py">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/1.py" />
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
           <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
@@ -787,14 +694,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/air_quality_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/test.py">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/air_quality_sample.py" />
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
@@ -804,22 +705,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/시군구별_실시간_평균정보_조회.json">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/시군구별_실시간_평균정보_조회.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도_%s">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도_%s">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -835,61 +733,246 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/0_air_quality.py">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/0_air_quality.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="1000">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/1_Student/dus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="14" />
           <folding>
-            <element signature="e#1288#1314#0" />
+            <element signature="e#0#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/3_simul_scheduler_template.py">
+    <entry file="file://$PROJECT_DIR$/01_Jump_to_python/5_APP/6_exterior_function/260_multi_thread_test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        <state relative-caret-position="225">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/대구 구군별 미세먼지 농도_20190730">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도_20190730">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/self.py">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/1_Simulator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="275">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
           <folding>
-            <element signature="e#47#69#0" expanded="true" />
-            <element signature="e#849#865#0" />
+            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/2_Scheduler.py">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state relative-caret-position="407">
+          <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/1_Simulator.py">
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/self.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="475">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#47#69#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_sungmin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling_0731/01_Beautiful_Soap.py" />
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/03_294.py" />
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/17_303.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/18_304_IGNORECASE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/20_307_back_slash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/21_309_meta-char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/22_310_meta-char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/00_re_exer/1_solutin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/19_305_multiline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/02_resident_registration_number_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/01_resident_registration_number_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/04_294_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/05_294_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/06_294_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/07_294_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/08_295_asterisk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/09_296_plus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/10_296_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/11_297.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/12_299.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/13_300.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/14_300_2findall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/15_301_finditer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/16_302_find_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

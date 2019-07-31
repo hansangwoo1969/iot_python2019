@@ -30,8 +30,11 @@ def terminate_ai_mode():
 
 def update_scheduler():
     while True:
-        time.sleep(scheduler_cycle)
+        for count in range(scheduler_cycle):
+            time.sleep(1)
+       # time.sleep(scheduler_cycle)
         print(f"스케줄러 작동..  {scheduler_cycle}초 주기")
+
 
 
 def print_main_menu():

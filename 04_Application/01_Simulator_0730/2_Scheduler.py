@@ -47,7 +47,7 @@ while True:
         g_AI_Mode = not g_AI_Mode
         if g_AI_Mode==True:
             ai_scheduler = threading.Thread(target=update_scheduler)
-            ai_scheduler.daemon=True
+            ai_scheduler.daemon=True     # 부모가 종료되면 즉시끝나게 하기 위해 True, start이전에 사용
             ai_scheduler.start()
             print("작동 완료!")
         else:
