@@ -8,9 +8,6 @@ print(m.start())
 print(m.end())
 print(m.span())
 
-
-
-
 print("====")
 result = p.finditer(original_text)  # 위치값(span)이 필요한 경우
 # 매칭된 결과를 'Match object'리스트로 반환

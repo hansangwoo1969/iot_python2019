@@ -6,6 +6,6 @@ p = re.compile('\\\\')
 m = p.match('\\section')
 print(m)
 
-p = re.compile(r'\section')  #  정확한 이해 필요,,,,,,, 숙지할 것,,,
+p = re.compile(r'\\section')  #  정확한 이해 필요,,,,,,, 숙지할 것,,,
 m = p.match('\section')
 print(m)
