@@ -1,5 +1,5 @@
 # 템플릿_채우기_ 결과는?  못했음,,,,, 강사코드와 비교후 숙지할 것
-import  urllib.request
+import urllib.request
 import datetime
 import json
 import time

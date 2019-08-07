@@ -36,16 +36,20 @@ def get_sigungu_URL(): # (1) 기상정보(동네예보정보 조회 서비스) r
     if (retData==None):
         return None
     else:
-        return json.loads(retData)
+        return retData
+        # return json.loads(retData)
+
 
 def Make_measure_info_Json():  # (1) 기상정보 (동네예보정보 조회 서비스) json파일 생성하는 함수
     jsonData = get_sigungu_URL()
-    print(jsonData)
-    # text = json_Data['records'][1]['informGrade']
-    # txts = text.split('/')
-    #     if (jsonData['response']['header']['resultMsg']=='OK'):
-    # for txt in txts:
-    #     json_air_quality_forecast_result.append(txt)
+    # print(jsonData)
+    json_air_quality_forecast_result =[]
+    text = jsonData['records'][1]['informGrade']
+    txts = text.split('/')
+    if (jsonData['response']['header']['resultMsg']=='OK'):
+        for txt in txts:
+            json_air_quality_forecast_result.append(txt)
+    print(json_air_quality_forecast_result)
 
         # json_weather_result.append({'baseDate':  prn_data.get('baseDate'),
         #                             'baseTime':  prn_data.get('baseTime'),
