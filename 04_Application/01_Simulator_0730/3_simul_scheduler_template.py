@@ -27,15 +27,12 @@ def terminate_ai_mode():
         ctypes.pythonapi.PyThreadState_SetAsyncExc(ai_scheduler.ident, None)
         raise SystemError("PyThreadState_SetAsyncExc failed")
 
-
 def update_scheduler():
     while True:
         for count in range(scheduler_cycle):
             time.sleep(1)
        # time.sleep(scheduler_cycle)
         print(f"스케줄러 작동..  {scheduler_cycle}초 주기")
-
-
 
 def print_main_menu():
     print("\n1. 장비상태 확인")

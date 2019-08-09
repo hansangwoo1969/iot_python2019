@@ -2,30 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5835c1ca-2247-4b7e-85ad-59948fc357f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/socket_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/socket_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/1. BeautifulSoup_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/2. get_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3. naver_movie_ranking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3. naver_movie_ranking_HK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3_1. naver_movie_ranking_re_HK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/날씨.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/00_re_expr_exercise/03_regular_expression_41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/11111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/01_KRX_81006_외국인2EXCEL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/02_KRX_80163_종목별공매도거래현황2DB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/03_KRX_30015_일별종목별거래현황.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/04_KRX2excel_2DB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/11_DB2exCEL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/12_하나씩 연습.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/KRXDB.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/공공주택.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/bigserver_backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/pp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/socket_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/socket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도_20190808" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/1_weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/1_weather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/06_316_1_lookahead_assertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/06_316_1_lookahead_assertion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Raspberry_pi/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Raspberry_pi/socket_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,79 +23,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py">
+        <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/controller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-675">
+            <state relative-caret-position="425">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_byungchan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3093">
-              <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_sungmin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="224" lean-forward="true" selection-start-line="224" selection-end-line="224" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/시군구별_실시간_평균정보_조회.json">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/self.py">
+        <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/bigserver_backup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="225">
+              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding>
+                <element signature="e#713#983#0" />
+                <element signature="e#1016#1404#0" />
+                <element signature="e#1490#2148#0" />
+                <element signature="e#2181#2558#0" />
+                <element signature="e#2599#3582#0" />
+                <element signature="e#3703#4507#0" />
+                <element signature="e#4532#5526#0" />
+                <element signature="e#5556#6109#0" />
+                <element signature="e#6136#6943#0" />
+                <element signature="e#7143#7196#0" />
+                <element signature="e#7215#7826#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,11 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/06_294_3.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/07_294_4.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/09_296_plus.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/10_296_2.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/11_297.py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/15_301_finditer.py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/16_302_find_method.py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/01_Basic_0731/17_303.py" />
@@ -168,7 +106,6 @@
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3. naver_movie_ranking_HK.py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3_1. naver_movie_ranking_re_HK.py" />
         <option value="$PROJECT_DIR$/02_Raspberry_pi/socket_server.py" />
-        <option value="$PROJECT_DIR$/02_Raspberry_pi/socket_client.py" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/PRACTICE.py" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/exercise.py" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/01_KRX_81006_외국인2EXCEL.py" />
@@ -179,12 +116,18 @@
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3. naver_movie_ranking.py" />
         <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/06_316_1_lookahead_assertion.py" />
         <option value="$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py" />
+        <option value="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/readme.txt" />
+        <option value="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" />
+        <option value="$PROJECT_DIR$/02_Raspberry_pi/socket_client.py" />
+        <option value="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/pp.py" />
+        <option value="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/controller.py" />
+        <option value="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/bigserver_backup.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-164" />
-    <option name="y" value="30" />
+    <option name="x" value="177" />
+    <option name="y" value="64" />
     <option name="width" value="974" />
     <option name="height" value="869" />
   </component>
@@ -211,48 +154,19 @@
             <path>
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_openapi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
-              <item name="02_openapi" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Web-crawling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="01_collection" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Web-crawling" type="462c0819:PsiDirectoryNode" />
-              <item name="02_Regular_Expression" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Raspberry_pi" type="462c0819:PsiDirectoryNode" />
+              <item name="2_simulator_controller_interlock_0808" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Application" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Simulator_0730" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,23 +178,23 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\python_workspace\02_Raspberry_pi\2_simulator_controller_interlock_0808" />
+      <recent name="C:\python_workspace\03_bigdata\EXERCISE\2_krx" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\01_Beautiful_Soup_0802" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\01_Beautiful_Soup" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\02_Regular_Expression\02_intermediate_0801" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\0729_weather" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\726_PUBLIC\wonsang" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\Student_0725" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\PUBLIC" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\python_workspace\03_bigdata\EXERCISE\2_krx" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\01_Beautiful_Soup_0802" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\01_Beautiful_Soup" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\02_Regular_Expression\02_intermediate_0801" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\02_Regular_Expression\01_Basic_0731\00_re_exer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.self">
-    <configuration name="0_air_quality" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pp">
+    <configuration name="3_simul_scheduler_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator_0730/0_air_quality.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="air_quality" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/01_Simulator_0730" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/pp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -402,19 +316,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.air_quality" />
-      <item itemvalue="Python.0_air_quality" />
       <item itemvalue="Python.simulator_sungmin" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.self" />
+      <item itemvalue="Python.3_simul_scheduler_template" />
+      <item itemvalue="Python.pp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pp" />
+        <item itemvalue="Python.3_simul_scheduler_template" />
         <item itemvalue="Python.self" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.simulator_sungmin" />
-        <item itemvalue="Python.0_air_quality" />
-        <item itemvalue="Python.air_quality" />
       </list>
     </recent_temporary>
   </component>
@@ -541,10 +455,17 @@
       <option name="project" value="LOCAL" />
       <updated>1564648234373</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="8월 7일">
+      <created>1565162637547</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1565162637547</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -561,7 +482,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32855567" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3702422" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4361413" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.46968028" />
@@ -609,7 +530,8 @@
     <MESSAGE value="7월 30일" />
     <MESSAGE value="7월 31일" />
     <MESSAGE value="8월 1일" />
-    <option name="LAST_COMMIT_MESSAGE" value="8월 1일" />
+    <MESSAGE value="8월 7일" />
+    <option name="LAST_COMMIT_MESSAGE" value="8월 7일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -638,6 +560,10 @@
           <url>file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tour2_sunmin.py</url>
           <line>29</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/controller.py</url>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -713,48 +639,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup/111.py" />
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/movie_ranking.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/Naver_Ranking_ver2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/0_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/726_PUBLIC/tour_moonsoo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -813,20 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/socket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/socket_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1000,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-879">
-          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/1_Simulator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1575">
@@ -1016,19 +879,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도_20190807">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state>
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
@@ -1037,7 +893,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_byungchan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3093">
+        <state relative-caret-position="1975">
           <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -1047,8 +903,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_sungmin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="224" lean-forward="true" selection-start-line="224" selection-end-line="224" />
+        <state relative-caret-position="5475">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -1058,12 +914,9 @@
     <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/시군구별_실시간_평균정보_조회.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="175">
           <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -1071,16 +924,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대구 구군별 미세먼지 농도_20190807">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대기질_예보통보_조회.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/self.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="332">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/대기질_예보통보_조회.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/시군구별_실시간_평균정보_조회.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#193#864#0" />
+            <element signature="e#895#1065#0" />
+            <element signature="e#1096#1184#0" />
+            <element signature="e#1242#1343#0" />
+            <element signature="e#1376#1572#0" />
+            <element signature="e#1603#1718#0" />
+            <element signature="e#1746#2131#0" />
+            <element signature="e#2169#2196#0" />
+            <element signature="e#2220#3004#0" />
+            <element signature="e#3169#3415#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/pp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/bigserver_backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="e#713#983#0" />
+            <element signature="e#1016#1404#0" />
+            <element signature="e#1490#2148#0" />
+            <element signature="e#2181#2558#0" />
+            <element signature="e#2599#3582#0" />
+            <element signature="e#3703#4507#0" />
+            <element signature="e#4532#5526#0" />
+            <element signature="e#5556#6109#0" />
+            <element signature="e#6136#6943#0" />
+            <element signature="e#7143#7196#0" />
+            <element signature="e#7215#7826#0" />
+          </folding>
         </state>
       </provider>
     </entry>

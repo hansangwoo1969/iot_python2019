@@ -1,10 +1,7 @@
-# ip주소 맞추고, 알FTP통해 RPI로 전송
-# RPI간 연동
-
 from socket import *
 
 port = 8080
-server_ip = '192.168.0.3'     # 내 컴퓨터 IP
+server_ip = '192.168.0.17'
 clientSock = socket(AF_INET,  SOCK_STREAM)
 clientSock.connect((server_ip, port))
 
