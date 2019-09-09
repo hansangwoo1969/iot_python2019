@@ -7,7 +7,7 @@ num_of_domain = 0
 num_of_news_by_press = {}
 crop_domain_list = []
 
-with open('아베_naver_news.json', encoding='UTF8') as f:
+with open('조국_naver_news.json', encoding='UTF8') as f:
     data = json.loads(f.read())
     num_of_data = len(data)
     # print(data)
@@ -49,7 +49,7 @@ Snum_of_news_by_press = sorted(num_of_news_by_press.items(), key=lambda x: x[1],
 # for i in Snum_of_news_by_press:
 #     print(" >> %s : %s" % (i.key(),i.val))
 # print(unique_domain_list)
-print("검색어: 아베")
+print("검색어: 조국")
 print("전체 도메인수: %s" % len(unique_domain_list))  # 도메인수 리스트 -> set
 print("전체건수: %s" % num_of_domain)
 print("부정확한 데이터 수: %s" % err_domain)

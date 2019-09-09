@@ -1,6 +1,8 @@
 import threading
 import time
 import ctypes
+import  urllib.request
+import json
 
 g_Radiator = False
 g_Gas_Valve = False
@@ -75,6 +77,29 @@ def control_device():
 def get_realtime_weather_info():
     print("자! 메뉴얼 보고 작성해 보세요!")
 
+    access_key = "XCeRmN%2B%2BubaLKjj%2BA8W%2Bx1QghqjBqMqJRZYXcFRhJiZ%2BZJUOH%2FPvWvsc8mcBE0M9YUC7T0iJ9LM%2FjWg2cD2o9Q%3D%3D"
+    end_point = "http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getCtprvnMesureSidoLIst"
+    parameters = "?_returnType=json&ServiceKey=" + access_key
+    parameters += "&sidoName=%s" % (urllib.parse.quote('대구'))
+    parameters += "&searchCondition=" + 'HOUR'
+
+    url = end_point + parameters
+
+    req = urllib.request.Request(url)
+    response = urllib.request.urlopen(req)
+    # response.read()
+    retData = response.read().decode('utf8')
+    retData = json.loads(retData)
+
+    datas = retData['list']
+    for data in datas:
+        print(data['dataTime'], data['sidoName'], data['cityName'], '\t' "미세먼지 농도: ", data['pm10Value'])
+
+    time.sleep(1)
+    print_main_menu()
+
+
+
 def smart_mode():
     global g_AI_Mode
     print("1. 인공지능 모드 조회")
@@ -107,7 +132,7 @@ def smart_mode():
         get_realtime_weather_info()
 
 print("<스마트 홈네트워크 시뮬레이션 프로그램 ver 1.0>")
-print("                                 - 이현구 -")
+print("                                 - Wind & Cloud -")
 ai_scheduler = threading.Thread(target=update_scheduler)
 while True:
     print_main_menu()

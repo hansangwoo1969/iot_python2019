@@ -66,7 +66,7 @@ from io import BytesIO
 [저장]
     1. 엑셀파일
         ㅁ 저장형식
-            ㅇ 디렉토리: 'C://Users//hansangwoo2//Desktop//TEST//'
+            ㅇ 디렉토리: './exer/test/'
             ㅇ 파일이름: 'KRX_30030_' + str(tdate) + '.xlsx'
 
     2. SQL테이블

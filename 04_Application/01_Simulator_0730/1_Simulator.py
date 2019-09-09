@@ -16,7 +16,7 @@ def print_main_menu():
 
 def print_device_status(device_name, device_status):
     print("%s 상태: " % device_name, end="")
-    if device_status == True : print("작동")
+    if device_status == True : print("작동중")
     else: print("정지")
 
 def check_device_status():
@@ -68,7 +68,7 @@ def get_realtime_weather_info():              # ==============================�
     for data in datas:
         print(data['dataTime'],data['sidoName'], data['cityName'],'\t' "미세먼지 농도: ", data['pm10Value'])
 
-    time.sleep(3000)
+    time.sleep(1)
     print_main_menu()
 
 

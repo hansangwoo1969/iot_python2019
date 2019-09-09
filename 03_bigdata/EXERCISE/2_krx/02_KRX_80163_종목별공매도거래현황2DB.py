@@ -13,7 +13,7 @@ import pandas as pd
 from io import BytesIO
 from datetime import datetime, timedelta
 
-DATABASE = 'C:\\Users\\hansangwoo2\\Documents\\blog\\KRXDB.db'
+DATABASE = '../krx/KRXDB.db'
 
 
 def krx80163_short_trading(p_sday, p_eday, p_mktidx):

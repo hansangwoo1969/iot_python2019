@@ -238,7 +238,7 @@ def simulator():
 
 
 while True:
-    menu_num = input("1. 장비상태 확인\n2. 장비 제어\n3. 스마트모드\n4. 시뮬레이션 모드\n5. 프로그램 종료\n메뉴 입력: ")
+    menu_num = input("\n1. 장비상태 확인\n2. 장비 제어\n3. 스마트모드\n4. 시뮬레이션 모드\n5. 프로그램 종료\n메뉴 입력: ")
     if menu_num == '1':
         total_status()
     elif menu_num == '2':
