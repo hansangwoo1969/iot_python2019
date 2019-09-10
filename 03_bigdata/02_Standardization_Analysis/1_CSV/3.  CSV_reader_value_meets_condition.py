@@ -13,7 +13,7 @@ with open(input_file, 'r', newline='') as csv_in_file:
         header = next(filereader)
         filewriter.writerow(header)
         for row_list in filereader:
-            filewriter.writerow(row_list)
+            # filewriter.writerow(row_list)  문수가 잡아 낸 문제
             supplier = str(row_list[0].strip())
             # cost = str(row_list[3].strip('$').replace(',','')
             cost = str(row_list[3].strip('$'))

@@ -2,42 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5835c1ca-2247-4b7e-85ad-59948fc357f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/01_xml/Korean3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/조국_naver_news.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201908300935.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/1.  CSV_simple_parsing_and_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/1.  pandas_parsing_and_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  CSV_reader_value_meets_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/CSV_Advanced_Chap02_csv_file.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/1output_index_false.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/1pandas_output_index_false.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/2output_index_false.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/3pandas_output_index_false.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/sales_february_2014.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/sales_january_2014.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/sales_march_2014.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data3.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data_corrupted.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data_no_header_row.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data_unnecessary_header_footer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/10.  CSV_reader_sum_average_from_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/10.  pandas_sum_average_from_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  CSV_reader_select_continuous_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  pandas_select_continuous_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  CSV_reader_add_header_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  pandas_add_header_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/4.  CSV_reader_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/4.  pandas_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  CSV_reader_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  pandas_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/6.  CSV_reader_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/6.  pandas_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/7.  CSV_reader_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/7.  pandas_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/8.  CSV_reader_counts_for_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/9.  CSV_reader_concat_rows_from_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/9.  pandas_concat_rows_from_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/10csv_reader_sum_average_from_multiple_files.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/10pandas_reader_sum_average_from_multiple_files.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/11csv_reader_select_continuous-rows.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/11pandas_reader_select_continuous-rows.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/12csv_reader_add_header_row.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/12pandas_reader_add_header_row.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/5pandas_value_matches_pattern.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/9csv_reader_concat_rows_from_multiple_files.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data_bulk.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Raspberry_pi/0_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Raspberry_pi/0_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Raspberry_pi/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Raspberry_pi/socket_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Raspberry_pi/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Raspberry_pi/socket_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_News_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_News_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/2_news_analysis(sw).py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/2_news_analysis(sw).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/movie_rank_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/movie_rank_test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/02_KRX_80163_종목별공매도거래현황2DB.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/02_KRX_80163_종목별공매도거래현황2DB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/04_KRX2excel_2DB.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/04_KRX2excel_2DB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator_0730/1_Simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/1_Simulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_wonsang.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_wonsang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  CSV_reader_value_meets_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  CSV_reader_value_meets_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/1output_index_false.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/3csv_output_value_meets_condition.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/1pandas_output_index_false.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/2output_index_false.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/3pandas_output_index_false.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +45,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  CSV_reader_select_continuous_rows.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="67">
+              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  pandas_select_continuous_rows.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  CSV_reader_add_header_row.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  pandas_value_matches_pattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  pandas_add_header_row.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/11pandas_reader_select_continuous-rows.csv">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -74,24 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/10_319_1_reference.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/11_319_hex.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/08_316_3_negative_lookahead_assertion_5.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/10_319_1_sub_method.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/07_316_2_positive_lookahead_assertion.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/12_320_greedy_vs_nongreedy.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/00_re_expr_exercise/01_coding_test.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/00_re_expr_exercise/02_regular_expression_21.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/02_Regular_Expression/02_intermediate_0801/00_re_expr_exercise/03_regular_expression_41.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup/1. BeautifulSoup_html..py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup/1. BeautifulSoup_html.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup/2. get_html.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup/3. naver_movie_ranking.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup/3_1. naver_movie_ranking_re.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup/111.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3_1. naver_movie_ranking_re.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3. naver_movie_ranking_HK.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3_1. naver_movie_ranking_re_HK.py" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/PRACTICE.py" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/exercise.py" />
         <option value="$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/01_KRX_81006_외국인2EXCEL.py" />
@@ -122,9 +140,27 @@
         <option value="$PROJECT_DIR$/02_Raspberry_pi/socket_server.py" />
         <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/1.  CSV_simple_parsing_and_write.py" />
         <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/1.  pandas_parsing_and_write.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py" />
-        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  CSV_reader_value_meets_condition.py" />
         <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data_bulk.csv" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/4.  CSV_reader_value_in_set.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/4.  pandas_value_in_set.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  CSV_reader_value_matches_pattern.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  pandas_value_matches_pattern.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/6.  CSV_reader_column_by_index.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/6.  pandas_column_by_index.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/7.  CSV_reader_column_by_name.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/7.  pandas_column_by_name.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/8.  CSV_reader_counts_for_multiple_files.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  CSV_reader_value_meets_condition.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/9.  CSV_reader_concat_rows_from_multiple_files.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/9.  pandas_concat_rows_from_multiple_files.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/10.  CSV_reader_sum_average_from_multiple_files.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/10.  pandas_sum_average_from_multiple_files.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  CSV_reader_select_continuous_rows.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  CSV_reader_add_header_row.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  pandas_add_header_row.py" />
+        <option value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  pandas_select_continuous_rows.py" />
       </list>
     </option>
   </component>
@@ -142,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,13 +200,19 @@
             <path>
               <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="03_bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Standardization_Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="1_CSV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="04_Application" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,19 +222,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\0729_weather" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\726_PUBLIC\wonsang" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\Student_0725" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\PUBLIC" />
-      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\python_workspace\03_bigdata\02_Standardization_Analysis\1_CSV" />
       <recent name="C:\python_workspace\02_Raspberry_pi\2_simulator_controller_interlock_0808" />
       <recent name="C:\python_workspace\03_bigdata\EXERCISE\2_krx" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\01_Beautiful_Soup_0802" />
       <recent name="C:\python_workspace\03_bigdata\01_collection\03_Web-crawling\01_Beautiful_Soup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\0729_weather" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\726_PUBLIC\wonsang" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\Student_0725" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json\PUBLIC" />
+      <recent name="C:\python_workspace\03_bigdata\01_collection\02_openapi\01_Basic\02_json" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -206,8 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.  pandas_value_meets_condition">
-    <configuration name="1.  CSV_simple_parsing_and_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12.  pandas_add_header_row">
+    <configuration name="11.  CSV_reader_select_continuous_rows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/1.  CSV_simple_parsing_and_write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  CSV_reader_select_continuous_rows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.  pandas_parsing_and_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11.  pandas_select_continuous_rows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,7 +283,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/1.  pandas_parsing_and_write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  pandas_select_continuous_rows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.  CSV_reader_parsing_and_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.  CSV_reader_add_header_row" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +304,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  CSV_reader_add_header_row.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.  pandas_value_meets_condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.  pandas_add_header_row" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +325,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  pandas_add_header_row.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. naver_movie_ranking_HK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.  pandas_value_matches_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,11 +342,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/01_collection/03_Web-crawling/01_Beautiful_Soup_0802/3. naver_movie_ranking_HK.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  pandas_value_matches_pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,19 +356,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3. naver_movie_ranking_HK" />
-      <item itemvalue="Python.1.  CSV_simple_parsing_and_write" />
-      <item itemvalue="Python.1.  pandas_parsing_and_write" />
-      <item itemvalue="Python.2.  CSV_reader_parsing_and_write" />
-      <item itemvalue="Python.3.  pandas_value_meets_condition" />
+      <item itemvalue="Python.11.  CSV_reader_select_continuous_rows" />
+      <item itemvalue="Python.11.  pandas_select_continuous_rows" />
+      <item itemvalue="Python.12.  CSV_reader_add_header_row" />
+      <item itemvalue="Python.5.  pandas_value_matches_pattern" />
+      <item itemvalue="Python.12.  pandas_add_header_row" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.  pandas_value_meets_condition" />
-        <item itemvalue="Python.2.  CSV_reader_parsing_and_write" />
-        <item itemvalue="Python.1.  pandas_parsing_and_write" />
-        <item itemvalue="Python.1.  CSV_simple_parsing_and_write" />
-        <item itemvalue="Python.3. naver_movie_ranking_HK" />
+        <item itemvalue="Python.12.  pandas_add_header_row" />
+        <item itemvalue="Python.5.  pandas_value_matches_pattern" />
+        <item itemvalue="Python.12.  CSV_reader_add_header_row" />
+        <item itemvalue="Python.11.  pandas_select_continuous_rows" />
+        <item itemvalue="Python.11.  CSV_reader_select_continuous_rows" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567054712654</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="9월 9일">
+      <created>1568017333815</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1568017333815</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -488,12 +538,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20159681" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" side_tool="true" visible="true" weight="0.23552895" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32855567" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31751227" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32733223" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31751227" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.46968028" />
@@ -525,7 +575,8 @@
     <MESSAGE value="8월 7일" />
     <MESSAGE value="8월 9일" />
     <MESSAGE value="8월 29일" />
-    <option name="LAST_COMMIT_MESSAGE" value="8월 29일" />
+    <MESSAGE value="9월 9일" />
+    <option name="LAST_COMMIT_MESSAGE" value="9월 9일" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -629,247 +680,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/9_0korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/11Readable_korean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/01_xml/12Read_Koreadn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_News_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="e#89#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/01_NEWS_search (1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="65" column="25" lean-forward="true" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/조국_naver_news.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/02_NEWS_Analysis.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/01_xml/2_news_analysis(sw).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/725_Student/1_ITT_Student(hk).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6550" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/1_weather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/1_weather_hk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1500">
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/동구_신암동_초단기예보조회_201908300935.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/01_collection/02_openapi/01_Basic/02_json/0729_weather/exer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/02_KRX_80163_종목별공매도거래현황2DB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4111">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/01_KRX_81006_외국인2EXCEL.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/2_krx/04_KRX2excel_2DB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/EXERCISE/11111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_sungmin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="216" column="28" selection-start-line="216" selection-start-column="28" selection-end-line="216" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_wonsang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="246" column="33" selection-start-line="246" selection-start-column="33" selection-end-line="246" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/colleague_code/simulator_byungchan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1100">
-          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/0_air_quality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-222">
-          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/2_Scheduler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/1_Simulator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/3_simul_scheduler_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3650">
-          <caret line="146" column="24" lean-forward="true" selection-start-line="146" selection-start-column="24" selection-end-line="146" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator_0730/air_quality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="e#47#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/0_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/bigserver_backup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1177">
-          <caret line="218" column="10" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/controller (1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <element signature="e#46#76#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/2_simulator_controller_interlock_0808/pp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="194" column="27" selection-start-line="194" selection-start-column="27" selection-end-line="194" selection-end-column="27" />
-          <folding>
-            <element signature="e#29#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/controller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_Raspberry_pi/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -993,33 +803,233 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  CSV_reader_value_meets_condition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/2output_index_false.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/3pandas_output_index_false.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py">
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/2.  CSV_reader_parsing_and_write.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="66">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/3output_index_false.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data_bulk.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/supplier_data_unnecessary_header_footer.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  pandas_value_meets_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/4csv_reader_value_in_set.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/4.  CSV_reader_value_in_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/4pandas_value_in_set.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/4.  pandas_value_in_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  CSV_reader_value_matches_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/5csv_reader_value_matches_pattern.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/6csv_reader_column_by_index.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/6.  CSV_reader_column_by_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/6.  pandas_column_by_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/7csv_reader_column_by_name.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/7.  pandas_column_by_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/3csv_output_value_meets_condition.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/3.  CSV_reader_value_meets_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/8.  CSV_reader_counts_for_multiple_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/7.  CSV_reader_column_by_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/9.  pandas_concat_rows_from_multiple_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/9.  CSV_reader_concat_rows_from_multiple_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/10csv_reader_sum_average_from_multiple_files.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/10.  CSV_reader_sum_average_from_multiple_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/10pandas_reader_sum_average_from_multiple_files.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/10.  pandas_sum_average_from_multiple_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  CSV_reader_select_continuous_rows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/11pandas_reader_select_continuous-rows.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/output_files/5pandas_value_matches_pattern.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/5.  pandas_value_matches_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  CSV_reader_add_header_row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/12.  pandas_add_header_row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_bigdata/02_Standardization_Analysis/1_CSV/11.  pandas_select_continuous_rows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

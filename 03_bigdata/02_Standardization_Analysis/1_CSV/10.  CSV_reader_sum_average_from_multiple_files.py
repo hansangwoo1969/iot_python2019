@@ -1,0 +1,34 @@
+import sys
+import csv
+import glob
+import os
+import string
+
+# input_file = sys.argv[1]
+# output_file = sys.argv[2]
+input_path = "."
+output_file = "./output_files/10csv_reader_sum_average_from_multiple_files.csv"
+
+output_header_list = ['file_name', 'total_sale', 'average_sales']
+
+csv_out_file = open(output_file, 'a', newline='')
+filewriter = csv.writer(csv_out_file)
+filewriter.writerow(output_header_list)
+
+for input_file in glob.glob(os.path.join(input_path, 'sales_*')):
+    with open(input_file, 'r', newline='') as csv_in_file:
+            filereader = csv.reader(csv_in_file)
+            output_list = []
+            output_list.append(os.path.basename(input_file))
+            header = next(filereader)
+            total_sales = 0.0
+            number_of_sales = 0.0
+            for row in filereader:
+                sale_amount = row[3]
+                total_sales  += float(str(sale_amount).strip('$').replace(',',''))
+                number_of_sales += 1.0
+            average_sales = '{0:.2f}'.format(total_sales/number_of_sales)
+            output_list.append(total_sales)
+            output_list.append(average_sales)
+            filewriter.writerow(output_list)
+csv_out_file.close()
