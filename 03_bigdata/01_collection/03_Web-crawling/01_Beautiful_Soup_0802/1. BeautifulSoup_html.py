@@ -2,8 +2,7 @@ from bs4 import BeautifulSoup
 html = """
 <td class="title">
     <div class="tit3">
-        <a href="/movie/bi/mi/1. Basic Concept.nhn?code=158191" title="1987">한국 영화 1987
-        </a>
+        <a href="/movie/bi/mi/1. Basic Concept.nhn?code=158191" title="1987">한국 영화 1987</a>
     </div>
 </td>
 """
@@ -32,4 +31,4 @@ print((tag.attrs))
 print('tag.string')  # 해당 태그의 값
 print(tag.string)
 print(tag.text)
-
+print(tag.contents)

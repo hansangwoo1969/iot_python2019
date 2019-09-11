@@ -1,5 +1,7 @@
 import sys
 import pandas as pd
+
+
 # input_file = sys.argv[1]
 # output_file = sys.argv[2]
 input_file = "supplier_data.csv"

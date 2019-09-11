@@ -31,6 +31,7 @@ def get_Weather_URL(day_time): # (1) 기상정보(동네예보정보 조회 서�
 
 
     url = end_point + parameters
+    # print(url)
     retData = get_Request_URL(url)
 
     if (retData==None):

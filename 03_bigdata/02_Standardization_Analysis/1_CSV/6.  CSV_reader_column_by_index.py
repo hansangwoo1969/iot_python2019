@@ -1,6 +1,9 @@
 import sys
 import csv
 
+# 열의 인덱스 값을 사용하여 특정열을 선택하기
+# 열 필터링 할때는 헤드행을 읽을 필요가 없다.
+
 # input_file = sys.argv[1]
 # output_file = sys.argv[2]
 input_file = "supplier_data.csv"

@@ -7,7 +7,7 @@ html = urllib.request.urlopen('https://movie.naver.com/movie/sdb/rank/rmovie.nhn
 soup = BeautifulSoup(html, 'html.parser')
 
 tags = soup.findAll('div', attrs={'class':'tit3'})  # findALL:조회된 모든 자료가 한꺼번에 리스트로 반환
-up_downs =  soup.findAll('img', attrs={'class':'arrow'})
+up_downs = soup.findAll('img', attrs={'class':'arrow'})
 ranks = soup.findAll('img', attrs={'width':'14'})
 ranges = soup.findAll('td', attrs={'class':'range ac'})
 

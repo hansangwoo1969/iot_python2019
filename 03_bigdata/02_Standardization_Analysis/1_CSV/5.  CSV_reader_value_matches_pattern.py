@@ -7,6 +7,7 @@ import re
 input_file = "supplier_data.csv"
 output_file = "./output_files/5csv_reader_value_matches_pattern.csv"
 
+# 그룹이름을 사용하는 것을 예정하였으나,
 pattern = re.compile(r'(?P<my_pattern_group>^001-.*)', re.I)
 
 with open(input_file, 'r', newline='') as csv_in_file:
