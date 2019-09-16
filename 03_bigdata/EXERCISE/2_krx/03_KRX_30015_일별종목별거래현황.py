@@ -56,7 +56,7 @@ def krx_daily_trading(p_tdate):
     df = pd.read_excel(BytesIO(r.content), thousands=',')
     df['일자'] = tdate
  
-    file_dir = 'C://Users//hansangwoo2//Desktop//TEST//'
+    file_dir = '.data'
     file_name = 'KRX_30015_' + str(tdate) + '.xlsx'
 
     # 엑셀로 저장
@@ -67,13 +67,13 @@ def krx_daily_trading(p_tdate):
 
 # krx_daily_trading(20181226)
 
-DATABASE = 'C:\\Users\\hansangwoo2\\Documents\\blog\\KRXDB.db'
+DATABASE = './data/KRXDB.db'
 
 def krx_daily2DB(p_tdate):
     # tdate = 20180104
     tdate = p_tdate
 
-    file_dir = 'C://Users//hansangwoo2//Desktop//TEST//'
+    file_dir = '.data'
     file_name = 'KRX_30015_' + str(tdate) + '.xlsx'
 
     file_exist = 'Q'

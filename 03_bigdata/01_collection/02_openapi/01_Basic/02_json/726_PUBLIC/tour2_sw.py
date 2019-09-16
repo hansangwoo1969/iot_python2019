@@ -20,8 +20,7 @@ def get_request_url(url):
 
 # [ CODE 1 ]
 def getNatVisitor(yyyymm, nat_cd, ed_cd):
-    end_point = \
-        "http://openapi.tour.go.kr/openapi/service/EdrcntTourismStatsServicee/getEdrcntTourismStatsList"
+    end_point = "http://openapi.tour.go.kr/openapi/service/EdrcntTourismStatsServicee/getEdrcntTourismStatsList"
 
     parameters = "?_type=json&serviceKey="+access_key
     parameters += "&YM="+yyyymm
