@@ -1,0 +1,142 @@
+*mysqlclient 설치 command
+pip install --only-binary :all: mysqlclient
+
+* MYSQL 설치 준비 사항
+- .net framework 최신버전을 설치
+- 2018.5.18기준 MySQL5.7버전과 호환이됨
+- MySQL은 full version으로 default 설치
+
+* 설치후 설정하는 사항
+Enter password: ****
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 8
+Server version: 5.7.22-log MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sakila             |
+| sys                |
+| world              |
++--------------------+
+6 rows in set (0.00 sec)
+
+mysql> create database my_suppliers;
+Query OK, 1 row affected (0.00 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| my_suppliers       |
+| mysql              |
+| performance_schema |
+| sakila             |
+| sys                |
+| world              |
++--------------------+
+7 rows in set (0.00 sec)
+
+mysql> use my_suppliers;
+Database changed
+mysql> CREATE TABLE IF NOT EXISTS Suppliers
+    ->                          (Supplier_Name VARCHAR(20),
+    ->                          Invoice_Number VARCHAR(20),
+    ->                          Part_Number VARCHAR(20),
+    ->                          Cost FLOAT,
+    ->                          Purchase_Date DATE);
+Query OK, 0 rows affected (0.14 sec)
+
+mysql> describe Suppliers;
++----------------+-------------+------+-----+---------+-------+
+| Field          | Type        | Null | Key | Default | Extra |
++----------------+-------------+------+-----+---------+-------+
+| Supplier_Name  | varchar(20) | YES  |     | NULL    |       |
+| Invoice_Number | varchar(20) | YES  |     | NULL    |       |
+| Part_Number    | varchar(20) | YES  |     | NULL    |       |
+| Cost           | float       | YES  |     | NULL    |       |
+| Purchase_Date  | date        | YES  |     | NULL    |       |
++----------------+-------------+------+-----+---------+-------+
+5 rows in set (0.01 sec)
+
+mysql> select * from Suppliers;
+Empty set (0.00 sec)
+
+mysql> create user 'open_source'@'localhost' identified by '1111'
+    -> ;
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> grant all privileges on my_suppliers.* to 'open_source'@'localhost';
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> flush privileges;
+Query OK, 0 rows affected (0.01 sec)
+
+==============================================================================
+* 실습시 환경설정 사항
+4th => 첫번째 실행인자: supplier_data.csv
+5th => 첫번째 실행인자: 5output.csv
+6th => 첫번째 실행인자: data_for_updating_mysql.csv
+Cost,Purchase Date,Supplier Name
+600.00,2014-01-22,Supplier X
+200.00,2014-02-01,Supplier Y
+
+7th 아래 SQL 직접 프로그램 실행 확인
+delete_table = """
+delete
+from Suppliers
+where Supplier_Name='Supplier Z'
+"""
+==================================================================
+* 프로그램 수행 결과를 MySQL Client에서 확인하는 방법(아래 참조)
+
+mysql> select * from suppliers;
++---------------+----------------+-------------+------+---------------+
+| Supplier_Name | Invoice_Number | Part_Number | Cost | Purchase_Date |
++---------------+----------------+-------------+------+---------------+
+| Supplier X    | 001-1001       | 2341        |  500 | 2014-01-20    |
+| Supplier X    | 001-1001       | 2341        |  500 | 2014-01-20    |
+| Supplier X    | 001-1001       | 5467        |  750 | 2014-01-20    |
+| Supplier X    | 001-1001       | 5467        |  750 | 2014-01-20    |
+| Supplier Y    | 50-9501        | 7009        |  250 | 2014-01-30    |
+| Supplier Y    | 50-9501        | 7009        |  250 | 2014-01-30    |
+| Supplier Y    | 50-9505        | 6650        |  125 | 2014-02-03    |
+| Supplier Y    | 50-9505        | 6650        |  125 | 2014-02-03    |
+| Supplier Z    | 920-4803       | 3321        |  615 | 2014-02-03    |
+| Supplier Z    | 920-4804       | 3321        |  615 | 2014-02-10    |
+| Supplier Z    | 920-4805       | 3321        |  615 | 2014-02-17    |
+| Supplier Z    | 920-4806       | 3321        |  615 | 2014-02-24    |
++---------------+----------------+-------------+------+---------------+
+12 rows in set (0.00 sec)
+
+mysql> select * from suppliers;
++---------------+----------------+-------------+------+---------------+
+| Supplier_Name | Invoice_Number | Part_Number | Cost | Purchase_Date |
++---------------+----------------+-------------+------+---------------+
+| Supplier X    | 001-1001       | 2341        |  600 | 2014-01-22    |
+| Supplier X    | 001-1001       | 2341        |  600 | 2014-01-22    |
+| Supplier X    | 001-1001       | 5467        |  600 | 2014-01-22    |
+| Supplier X    | 001-1001       | 5467        |  600 | 2014-01-22    |
+| Supplier Y    | 50-9501        | 7009        |  200 | 2014-02-01    |
+| Supplier Y    | 50-9501        | 7009        |  200 | 2014-02-01    |
+| Supplier Y    | 50-9505        | 6650        |  200 | 2014-02-01    |
+| Supplier Y    | 50-9505        | 6650        |  200 | 2014-02-01    |
+| Supplier Z    | 920-4803       | 3321        |  615 | 2014-02-03    |
+| Supplier Z    | 920-4804       | 3321        |  615 | 2014-02-10    |
+| Supplier Z    | 920-4805       | 3321        |  615 | 2014-02-17    |
+| Supplier Z    | 920-4806       | 3321        |  615 | 2014-02-24    |
++---------------+----------------+-------------+------+---------------+
+12 rows in set (0.00 sec)

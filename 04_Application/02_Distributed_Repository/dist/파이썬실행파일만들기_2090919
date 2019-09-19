@@ -1,0 +1,19 @@
+python 실행 파일 만들기
+목적: python 인터프린터가 없는 환경에서도 구동할 수 있는
+     Product 제작
+
+- pyinstaller 설치
+pip install pyinstaller
+
+- 패키징
+pyinstaller --onefile test.py
+
+- 실행
+test.exe 실행
+
+* 기타 아이콘 설정
+pyinstaller --icon=test.ico --onefile test.py
+(아이콘 제작은 https://icoconvert.com/ 나 기타 제작 툴을 통해)
+
+※ 콘솔 프로그램 제작시
+프로그램 시작 및 종료를 인지 할 수 있는 input함수를 사용할 것

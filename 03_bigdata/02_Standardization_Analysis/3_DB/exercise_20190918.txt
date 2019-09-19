@@ -1,0 +1,25 @@
+* 중복 레코드를 제거하는 distinct
+ex) select distinct class from student
+* where 이후에
+ =, >, <, <=, >=
+ 여러 조건을 지정할 경우: and, or
+ ex) where gpa>=3.0 and class ='3';
+  where home = '부산' or home = '서울'
+* 부정연산자 <>
+ ex) where gpa>=3.5 and class <>'3';
+* 범위연산자 between
+ ex) where gpa between 2.9 and 3.3
+* 검색 조건 리스트 IN, NOT IN
+where home IN('부산','광주');
+=> where home='부산' or home='광주'
+where home NOT IN('부산','광주');
+=> where home <> '부산' and home <> '광주'
+* 패턴매치
+ where home like '부*'
+* 테이블 값 정렬
+ select * from Suppliers order by desc cost
+* 함수 사용
+MAX, MIN, AVG
+select MAX(cost) from suplier
+* 전체 레코드 계산
+selct count(*) from suplier
